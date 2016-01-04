@@ -1,0 +1,33 @@
+{
+  "name": "clean2-webpack-plugin",
+  "version": "0.1.8",
+  "author": {
+    "name": "alexwang",
+    "email": "1669499355@qq.com"
+  },
+  "description": "A webpack plugin to remove your build folder(s) before building[modified from clean-webpack-plugin]",
+  "homepage": "https://github.com/alexwang/clean2-webpack-plugin",
+  "licenses": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "clean2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexwang/clean2-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexwang/clean2-webpack-plugin/issues"
+  },
+  "dependencies": {
+    "rimraf": "~2.3.2"
+  },
+  "maintainers": [
+    {
+      "name": "alexwang",
+      "email": "alexwang@github.com"
+    }
+  ]
+}

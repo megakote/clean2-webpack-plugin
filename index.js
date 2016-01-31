@@ -19,7 +19,7 @@ function Plugin(paths, context)
     // allows for a single string entry
     if (typeof paths == 'string' || paths instanceof String)
     {
-        paths = [paths];
+        this.paths = [paths];
     }
 }
 
